@@ -59,4 +59,5 @@ public class CustomList extends ArrayAdapter<City> {
         return cities.contains(city);
     }
 
+
 }
